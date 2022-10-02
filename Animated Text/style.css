@@ -1,0 +1,31 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #111827;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate 2s linear infinite;
+}
+
+@keyframes animate {
+    to {
+        background-position: 200% center;
+    }
+}
