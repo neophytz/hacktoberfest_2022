@@ -1,6 +1,7 @@
 // Program to implement merge sort algortihm
 
 //Solution for above issue:
+
 function merge_sort(left_part,right_part) 
 {
 	var i = 0;
