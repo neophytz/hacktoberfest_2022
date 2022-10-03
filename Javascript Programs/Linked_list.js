@@ -1,6 +1,5 @@
 // Program to find middle element of LinkedList using JavaScript
 
-
 // Solution:
 class Node {
     constructor(data) {
