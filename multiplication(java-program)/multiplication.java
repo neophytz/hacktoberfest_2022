@@ -1,4 +1,3 @@
-// Java Program to Multiply Two Numbers
 
 import java.util.Scanner;
 public class MultiplyNumbers{
