@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 -[Shahwaz alam] (https://github.com/shahwaz-55)
+-[Ayush Kanduri] (https://github.com/Ayush-Kanduri)
 -[Shobhan Pakhira] (https://github.com/Shobhan-Pakhira)
 -[Siddharth Rawat] (https://github.com/sidharth-rawat)
 -[Tanu Kumari] (https://github.com/Tanuk5)
